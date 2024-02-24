@@ -3,9 +3,9 @@
 
 This is a supply chain analytics project. In which conducted an analysis of supply chain inefficiencies, and developed informative dashboards to inform business stakeholders of potential issues, along with proposing strategic business enhancements.
 
-**Blog Post** : [Here]()
+**Blog Post** : [Here](https://medium.com/@brunoboro9/moving-from-complexity-to-clarity-in-supply-chain-0484a83e515f)
 
-**Tableau  Dashboard Link** :  [Here](https://public.tableau.com/views/SupplyChainAnalytics_17087649901670/SupplyChainAnalytics?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+**Tableau  Dashboard Link** :  [Here](https://public.tableau.com/app/profile/bruno.lyngdoh.boro/viz/SupplyChainAnalytics_17087649901670/SupplyChainAnalytics)
 
 ## Project Description :
 The project provides a real-world dataset focusing on supply chain analytics. As the main data analyst for Just In Time, you will help solve key shipment and inventory management challenges, analyze supply chain inefficiencies, and create insightful dashboards to inform business stakeholders about potential problems and propose structural business improvements.
